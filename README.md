@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-   I am an experienced process engineer with over 15 years of experience, and I have a passion for data analysis and machine learning. I have always been interested in automating reports and creating sophisticated formulas in Excel to help businesses make the best decisions for their development.   
+   I am a Junior Data Analyst (former Process Engineer) passionate about data analysis and machine learning. I have always been interested in automating reports and creating sophisticated formulas in Excel to help businesses make the best decisions for their development.   
    To deepen my knowledge in analysis, I have completed several online courses, through which I have learned Python, SQL, mathematical statistics, probability theory, product metrics, and frameworks for product development. Through academic projects, I have gained practical experience in conducting statistical tests, creating dashboards in Tableau, and using GIT and AIRFLOW.  
    I am now looking to use my skill set to help another organization improve its decision-making processes through data analysis. I am particularly interested in machine learning and am committed to continuing to learn more about it in the future to become a data scientist.
 
